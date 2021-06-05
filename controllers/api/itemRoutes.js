@@ -1,6 +1,6 @@
 //dependencies
 const router = require("express").Router();
-const { item } = require("../../item");
+// const { item } = require("../../item");
 const { Item } = require("../../models");
 
 // GET all items
